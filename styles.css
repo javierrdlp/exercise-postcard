@@ -16,10 +16,9 @@ p{
 
 input {
     font-size: 20px;
-    margin: 0px 0px 10px 0px;
+    margin: 10px 0px 0px 0px;
     border: 0;
-    border-bottom: 1px solid #BDBDBD;  
-    
+    border-bottom: 1px solid #BDBDBD;    
 }
 
 button{   
