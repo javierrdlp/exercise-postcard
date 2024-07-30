@@ -1,0 +1,57 @@
+body{   
+    background-color: black;   
+}
+
+h1 {
+    width: 100%;
+}
+
+img {    
+    height: 80px;
+}
+
+p{
+    font-size: 17px;
+}
+
+input {
+    font-size: 20px;
+    margin: 0px 0px 10px 0px;
+    border: 0;
+    border-bottom: 1px solid #BDBDBD;  
+    
+}
+
+button{   
+    font-size: 20px;
+    padding: 5px;
+}
+
+.general{
+    width: 600px;
+    height: 350px;
+    background-color: white;
+    margin: 100px auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+.encabezado{
+    padding: 10px 15px 5px 15px;
+    display: flex;
+}
+.cuerpo {
+    padding-left: 10px;
+    display: flex;       
+}
+
+.izq, .drch{  
+    padding: 0px 10px;  
+    width: 50%;        
+}
+
+.send_button {    
+    display: flex;
+    justify-content: center;
+    
+}
